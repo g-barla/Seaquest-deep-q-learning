@@ -4,14 +4,9 @@
 Deep Q-Network (DQN) implementation for Atari Seaquest using PyTorch. Trained agent achieves 1,520 points (human-competitive performance) through pure reinforcement learning.
 
 ---
-
-## 🚀 Quick Start
-
 **Open in Google Colab:**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/[YourGitHubUsername]/seaquest-deep-q-learning/blob/main/Seaquest_DQN_[YourName].ipynb)
-
-*Replace `[YourGitHubUsername]` and `[YourName]` with your actual GitHub username and notebook name*
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cUpRaTbmSl6ko20bi2ppPIcxL8U81L_C?usp=sharing)
 
 ---
 
