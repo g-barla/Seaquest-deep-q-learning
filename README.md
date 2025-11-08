@@ -42,10 +42,10 @@ Tested three parameter variations from Episode 100 checkpoint:
 ## 🎬 Demonstration
 
 ### Training Progression
-![Training Progression](Training Progression.png)
+![Training Progression](TrainingProgression.png)
 
 ### Experiment Comparison
-![Experiment Comparison](Experiment Comparison.png)
+![Experiment Comparison](ExperimentComparison.png)
 
 ### Agent Gameplay
 *Video demonstration showing Episode 100 vs Episode 1,000 agent performance*
