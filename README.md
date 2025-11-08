@@ -49,7 +49,7 @@ Tested three parameter variations from Episode 100 checkpoint:
 
 ### Agent Gameplay
 *Video demonstration showing Episode 100 vs Episode 1,000 agent performance*
-
+[Link to gameplay video](https://northeastern-my.sharepoint.com/personal/barla_g_northeastern_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Fbarla%5Fg%5Fnortheastern%5Fedu%2FDocuments%2Fseaquest%5Fcomparison%5Fimproved%20%281%29%2Emp4&referrer=Teams%2ETEAMS%2DELECTRON&referrerScenario=teamsSdk%5Fns%2Dbim)
 
 ---
 
